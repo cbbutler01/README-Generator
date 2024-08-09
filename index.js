@@ -70,7 +70,7 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.createPromptModule(questions).then((userAnswers) => {
+    inquirer.prompt(questions).then((userAnswers) => {
         writeToFile('ReadMe.md', generateMarkdown(userAnswers))
     })
 }
