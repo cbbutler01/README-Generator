@@ -46,7 +46,7 @@ function generateMarkdown(data) {
     -[License](#license)
 
   ## Installation
-  ${data.Installationinstructions}
+  ${data.InstallationInstructions}
 
   ## Usage
   ${data.UsageInformation}

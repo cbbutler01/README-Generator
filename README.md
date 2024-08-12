@@ -1,8 +1,8 @@
 
-  # README Generator
+  # Network-Socially
 
   ## Description
-  An easy way to get a README file out of the way, without the hassle of formatting after big projects
+  An API for users to share their thoughts, react to friends' thoughts, and create a friends list using NoSQL, Express, Mongoose, and Mongo
   
   ## Table of Contents
     -[Installation](#installation)
@@ -13,19 +13,19 @@
     -[License](#license)
 
   ## Installation
- Clone the repository off my Github profile, and run it in a coding application or terminal
+  undefined
 
   ## Usage
-  To create README files for user's projects
+  Use my project to help create a simple social platform by easily incorporatingmy work intot he backend, and leaving only frontend code to complete
 
   ## Contributing
-  Create your own branch and code from there, make the application more user friendly, or add more to the README generation
+  Contributions are welcome, just create a new branch and add any functionality to the code that would compliment what is already implemented
 
   ## Tests
-  Check if the terminal runs the questions first, then see if the markdown is generating
+  Create some test files and run the `npm run test` script in the terminal
 
   ## Questions
-  For any questions about the project, contact [cbutler01](https://github.com/cbutler01) or Email me at clarenceb.butleriii@gmail.com.
+  For any questions about the project, contact [cbbutler01](https://github.com/cbbutler01) or Email me at clarenceb.butleriii@gmail.com.
 
   ## License
   ![License](https://img.shields.io/badge/License-MIT-brightgreen)
